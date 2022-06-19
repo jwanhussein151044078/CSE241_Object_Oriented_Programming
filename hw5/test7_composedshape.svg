@@ -1,0 +1,36 @@
+<svg width="1000" hight="1000"> 
+<polygon points=" 0 112.583, 130 112.583, 65 0"  stroke="black" stroke-width="0.5" fill="green"/>
+<path d="M5.7735 102.583 L23.7735 102.583 L23.7735 112.583 L5.7735 112.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M23.7735 102.583 L41.7735 102.583 L41.7735 112.583 L23.7735 112.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M41.7735 102.583 L59.7735 102.583 L59.7735 112.583 L41.7735 112.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M59.7735 102.583 L77.7735 102.583 L77.7735 112.583 L59.7735 112.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M77.7735 102.583 L95.7735 102.583 L95.7735 112.583 L77.7735 112.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M95.7735 102.583 L113.774 102.583 L113.774 112.583 L95.7735 112.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M11.547 92.5833 L29.547 92.5833 L29.547 102.583 L11.547 102.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M29.547 92.5833 L47.547 92.5833 L47.547 102.583 L29.547 102.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M47.547 92.5833 L65.547 92.5833 L65.547 102.583 L47.547 102.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M65.547 92.5833 L83.547 92.5833 L83.547 102.583 L65.547 102.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M83.547 92.5833 L101.547 92.5833 L101.547 102.583 L83.547 102.583 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M17.3205 82.5833 L35.3205 82.5833 L35.3205 92.5833 L17.3205 92.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M35.3205 82.5833 L53.3205 82.5833 L53.3205 92.5833 L35.3205 92.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M53.3205 82.5833 L71.3205 82.5833 L71.3205 92.5833 L53.3205 92.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M71.3205 82.5833 L89.3205 82.5833 L89.3205 92.5833 L71.3205 92.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M89.3205 82.5833 L107.321 82.5833 L107.321 92.5833 L89.3205 92.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M23.094 72.5833 L41.094 72.5833 L41.094 82.5833 L23.094 82.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M41.094 72.5833 L59.094 72.5833 L59.094 82.5833 L41.094 82.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M59.094 72.5833 L77.094 72.5833 L77.094 82.5833 L59.094 82.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M77.094 72.5833 L95.094 72.5833 L95.094 82.5833 L77.094 82.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M28.8675 62.5833 L46.8675 62.5833 L46.8675 72.5833 L28.8675 72.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M46.8675 62.5833 L64.8675 62.5833 L64.8675 72.5833 L46.8675 72.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M64.8675 62.5833 L82.8675 62.5833 L82.8675 72.5833 L64.8675 72.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M82.8675 62.5833 L100.868 62.5833 L100.868 72.5833 L82.8675 72.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M34.641 52.5833 L52.641 52.5833 L52.641 62.5833 L34.641 62.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M52.641 52.5833 L70.641 52.5833 L70.641 62.5833 L52.641 62.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M70.641 52.5833 L88.641 52.5833 L88.641 62.5833 L70.641 62.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M40.4145 42.5833 L58.4145 42.5833 L58.4145 52.5833 L40.4145 52.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M58.4145 42.5833 L76.4145 42.5833 L76.4145 52.5833 L58.4145 52.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M46.188 32.5833 L64.188 32.5833 L64.188 42.5833 L46.188 42.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M64.188 32.5833 L82.188 32.5833 L82.188 42.5833 L64.188 42.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+<path d="M51.9615 22.5833 L69.9615 22.5833 L69.9615 32.5833 L51.9615 32.5833 Z" stroke="black" stroke-width="0.5" fill="red" />
+
+</svg> 

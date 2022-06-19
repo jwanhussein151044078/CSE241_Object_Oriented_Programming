@@ -1,0 +1,7 @@
+<svg width="1000" hight="1000"> 
+<polygon points=" 0 112.583, 130 112.583, 65 0"  stroke="black" stroke-width="0.5" fill="green"/>
+<circle cx="34.641" cy="92.5833" r="20" stroke="black" stroke-width="0.5" fill="red"/>
+<circle cx="74.641" cy="92.5833" r="20" stroke="black" stroke-width="0.5" fill="red"/>
+<circle cx="54.641" cy="57.9423" r="20" stroke="black" stroke-width="0.5" fill="red"/>
+
+</svg> 
