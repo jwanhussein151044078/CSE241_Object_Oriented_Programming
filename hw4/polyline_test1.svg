@@ -1,0 +1,4 @@
+<svg width="500" hight="500"> 
+<polyline points= "10,30 150,300 250,100 175,75 100,500 " stroke="black" stroke-width="3" fill="none" />
+
+</svg> 
