@@ -1,0 +1,41 @@
+<svg width="800" hight="800"> 
+<circle cx="400" cy="400" r="400" stroke="black" stroke-width="2" fill="red"/>
+<circle cx="70" cy="400" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="180" cy="400" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="290" cy="400" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="400" cy="400" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="510" cy="400" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="620" cy="400" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="730" cy="400" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="125" cy="304.737" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="125" cy="495.263" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="235" cy="304.737" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="235" cy="495.263" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="345" cy="304.737" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="345" cy="495.263" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="455" cy="304.737" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="455" cy="495.263" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="565" cy="304.737" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="565" cy="495.263" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="675" cy="304.737" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="675" cy="495.263" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="180" cy="209.474" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="180" cy="590.526" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="290" cy="209.474" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="290" cy="590.526" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="400" cy="209.474" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="400" cy="590.526" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="510" cy="209.474" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="510" cy="590.526" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="620" cy="209.474" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="620" cy="590.526" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="235" cy="114.212" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="235" cy="685.788" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="345" cy="114.212" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="345" cy="685.788" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="455" cy="114.212" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="455" cy="685.788" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="565" cy="114.212" r="55" stroke="black" stroke-width="2" fill="green"/>
+<circle cx="565" cy="685.788" r="55" stroke="black" stroke-width="2" fill="green"/>
+
+</svg> 

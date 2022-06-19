@@ -1,0 +1,19 @@
+<svg width="400" hight="346.41"> 
+<polygon points=" 0 346.41, 400 346.41, 200 0"  stroke="black" stroke-width="2" fill="red"/>
+<path d="M30.0222 294.41 L90.0222 294.41 L90.0222 346.41 L30.0222 346.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M90.0222 294.41 L150.022 294.41 L150.022 346.41 L90.0222 346.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M150.022 294.41 L210.022 294.41 L210.022 346.41 L150.022 346.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M210.022 294.41 L270.022 294.41 L270.022 346.41 L210.022 346.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M270.022 294.41 L330.022 294.41 L330.022 346.41 L270.022 346.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M60.0444 242.41 L120.044 242.41 L120.044 294.41 L60.0444 294.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M120.044 242.41 L180.044 242.41 L180.044 294.41 L120.044 294.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M180.044 242.41 L240.044 242.41 L240.044 294.41 L180.044 294.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M240.044 242.41 L300.044 242.41 L300.044 294.41 L240.044 294.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M90.0666 190.41 L150.067 190.41 L150.067 242.41 L90.0666 242.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M150.067 190.41 L210.067 190.41 L210.067 242.41 L150.067 242.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M210.067 190.41 L270.067 190.41 L270.067 242.41 L210.067 242.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M120.089 138.41 L180.089 138.41 L180.089 190.41 L120.089 190.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M180.089 138.41 L240.089 138.41 L240.089 190.41 L180.089 190.41 Z" stroke="black" stroke-width="2" fill="green" />
+<path d="M150.111 86.4102 L210.111 86.4102 L210.111 138.41 L150.111 138.41 Z" stroke="black" stroke-width="2" fill="green" />
+
+</svg> 
